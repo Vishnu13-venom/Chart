@@ -4,3 +4,4 @@ Points:
 * A dropdown to change the duration of candlesticks - 1m, 3m, 5m, 15m,30m
 * Responsive for all devices - Desktop, Mobile and Tablet
 * There is not any latency, the binance API price is similar to our site.
+* https://famous-liger-851b95.netlify.app/
